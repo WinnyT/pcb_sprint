@@ -12,9 +12,10 @@ I used an LED to light up when the NFC activated, NFC chip, 1 resistor and 1 cap
 
 Check out Bom
 
-<img width="1431" height="725" alt="image" src="https://github.com/user-attachments/assets/91dd44b9-63a4-4203-8c8b-a2a5fc54de41" />
+<img width="1398" height="710" alt="image" src="https://github.com/user-attachments/assets/8f7ad6a1-592d-409c-a347-855975ec898e" />
 
-BOM total: $22.86
+
+BOM total: $18.42
 
 # Schematic
 
