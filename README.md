@@ -15,7 +15,7 @@ Check out Bom
 <img width="1398" height="710" alt="image" src="https://github.com/user-attachments/assets/8f7ad6a1-592d-409c-a347-855975ec898e" />
 
 
-BOM total: $18.42
+BOM total: $18.42 + 2.5 ( shipping cost) = $22.92
 
 # Schematic
 
